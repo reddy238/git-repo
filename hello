@@ -1,8 +1,8 @@
-class hello
+class hello # from dev 2
 {
-public static void main()
+public static void main() # from dev 2
 {
 system.out println(hello")
 }
-}
+} from dev 2
 
