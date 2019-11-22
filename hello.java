@@ -6,7 +6,11 @@ B
 B
 B
 
-class HelloWorld 
+
+
+
+from dev2 class HelloWorld 
+
 {
 	public static void main(String args[])
     {
